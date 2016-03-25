@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://wangjibin.github.io/"/>
   <updated>2016-03-25T03:04:26.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://wangjibin.github.io/</id>
   
   <author>
     <name>Jekyll Wang</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>这是我的第一篇博客</title>
-    <link href="http://yoursite.com/2016/03/25/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2016/03/25/我的第一篇博客/</id>
+    <link href="http://wangjibin.github.io/2016/03/25/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://wangjibin.github.io/2016/03/25/我的第一篇博客/</id>
     <published>2016-03-25T02:56:50.000Z</published>
     <updated>2016-03-25T03:04:26.000Z</updated>
     
@@ -31,19 +31,19 @@
     
     </summary>
     
-      <category term="life" scheme="http://yoursite.com/categories/life/"/>
+      <category term="life" scheme="http://wangjibin.github.io/categories/life/"/>
     
     
-      <category term="life" scheme="http://yoursite.com/tags/life/"/>
+      <category term="life" scheme="http://wangjibin.github.io/tags/life/"/>
     
-      <category term="what" scheme="http://yoursite.com/tags/what/"/>
+      <category term="what" scheme="http://wangjibin.github.io/tags/what/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/03/25/hello-world/"/>
-    <id>http://yoursite.com/2016/03/25/hello-world/</id>
+    <link href="http://wangjibin.github.io/2016/03/25/hello-world/"/>
+    <id>http://wangjibin.github.io/2016/03/25/hello-world/</id>
     <published>2016-03-25T01:40:48.000Z</published>
     <updated>2016-03-25T01:40:48.000Z</updated>
     
