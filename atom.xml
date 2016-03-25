@@ -1,19 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>基导噢噢噢！</title>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-03-25T01:40:48.000Z</updated>
+  <updated>2016-03-25T03:00:55.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Jekyll Wang</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这是我的第一篇博客</title>
+    <link href="http://yoursite.com/2016/03/25/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2016/03/25/我的第一篇博客/</id>
+    <published>2016-03-25T02:56:50.000Z</published>
+    <updated>2016-03-25T03:00:55.000Z</updated>
+    
+    <content type="html">&lt;h3 id=&quot;我的第一篇博客&quot;&gt;&lt;a href=&quot;#我的第一篇博客&quot; class=&quot;headerlink&quot; title=&quot;我的第一篇博客&quot;&gt;&lt;/a&gt;我的第一篇博客&lt;/h3&gt;&lt;p&gt;好开心哦！！！&lt;br&gt;耶耶耶！！！&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;我的第一篇博客&quot;&gt;&lt;a href=&quot;#我的第一篇博客&quot; class=&quot;headerlink&quot; title=&quot;我的第一篇博客&quot;&gt;&lt;/a&gt;我的第一篇博客&lt;/h3&gt;&lt;p&gt;好开心哦！！！&lt;br&gt;耶耶耶！！！&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="life" scheme="http://yoursite.com/categories/life/"/>
+    
+    
+      <category term="life" scheme="http://yoursite.com/tags/life/"/>
+    
+      <category term="what" scheme="http://yoursite.com/tags/what/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2016/03/25/%E4%BD%A0%E5%B8%A6%E8%80%B3%E6%9C%BA%E4%BA%86%E5%90%97/"/>
+    <id>http://yoursite.com/2016/03/25/你带耳机了吗/</id>
+    <published>2016-03-25T02:42:35.000Z</published>
+    <updated>2016-03-25T02:54:10.000Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;ni&quot;&gt;&lt;a href=&quot;#ni&quot; class=&quot;headerlink&quot; title=&quot;ni&quot;&gt;&lt;/a&gt;ni&lt;/h2&gt;&lt;p&gt;你带耳机了吗&lt;br&gt;戴了&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;ni&quot;&gt;&lt;a href=&quot;#ni&quot; class=&quot;headerlink&quot; title=&quot;ni&quot;&gt;&lt;/a&gt;ni&lt;/h2&gt;&lt;p&gt;你带耳机了吗&lt;br&gt;戴了&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
