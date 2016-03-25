@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wangjibin.github.io/"/>
-  <updated>2016-03-25T03:04:26.000Z</updated>
+  <updated>2016-03-25T03:11:08.000Z</updated>
   <id>http://wangjibin.github.io/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Markdown 练习</title>
+    <link href="http://wangjibin.github.io/2016/03/25/1/"/>
+    <id>http://wangjibin.github.io/2016/03/25/1/</id>
+    <published>2016-03-25T03:08:42.000Z</published>
+    <updated>2016-03-25T03:11:08.000Z</updated>
+    
+    <content type="html">&lt;h3 id=&quot;标题&quot;&gt;&lt;a href=&quot;#标题&quot; class=&quot;headerlink&quot; title=&quot;标题&quot;&gt;&lt;/a&gt;标题&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;http://cheng-kang.github.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;chengkang de boke&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://7u2sl0.com1.z0.glb.clouddn.com/ios_Screen%20Shot%202016-03-20%20at%208.33.20%20PM.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;标题&quot;&gt;&lt;a href=&quot;#标题&quot; class=&quot;headerlink&quot; title=&quot;标题&quot;&gt;&lt;/a&gt;标题&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;http://cheng-kang.github.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>这是我的第一篇博客</title>
